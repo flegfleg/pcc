@@ -3,8 +3,10 @@ PCC: PRISM CARBON COPY
 
 PCC: PRISM CARBON COPY is a script for Mac OS X. Once installed, every email you send will be automatically forwarded to the NSA Public and Media Affairs (nsapao@nsa.gov)
 
+http://pcc.fleg.de
 
 FAQ
+---
 
 What is PCC:?
 PCC: is a piece of software by Florian Egermann.
